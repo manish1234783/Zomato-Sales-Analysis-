@@ -112,4 +112,4 @@ Strategic Portfolio Balancing: Marketing algorithms and dynamic, high-visibility
 
 #Screenshorts/ Demo
 
-Example
+Example : https://github.com/manish1234783/Zomato-Sales-Analysis-/blob/main/Zomato%20Analysis%20Dashboard
